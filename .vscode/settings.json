@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "FCPS_eUnits\\Unit1\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "d:\\user\\Documents\\GitHub\\Java_Course_v1122\\FCPS_eUnits\\SetupFiles\\xercesImpl.jar",
+        "d:\\user\\Documents\\GitHub\\Java_Course_v1122\\FCPS_eUnits\\SetupFiles\\karel2_c.jar"
+    ]
+}
